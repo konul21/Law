@@ -1,0 +1,151 @@
+header{
+    background-color: #57614d;
+}
+
+header ul li{
+    display: inline;
+}
+
+header ul li a{
+    font-size: 13px;
+line-height: 24px;
+color: #b8c6ac;
+font-weight: bold;
+font-family: "Times";
+text-align: right;
+filter: drop-shadow(0.5px 0.866px 0px rgba(0,0,0,0.3));
+text-decoration: none;
+margin-left: 30px;
+}
+
+.active,  header ul li a:hover{
+    color: #fff;
+}
+
+
+#two{
+    background-color: #d9d9d9;
+}
+
+#two h3{
+    width: 307px;
+height: 185px;
+font-size: 30px;
+line-height: 48px;
+color: #4e5944;
+font-family: "Times New Roman";
+text-align: center;
+}
+
+#two .card{
+    background-color: #e9e9e9;
+    border: 1px solid #fff;
+}
+
+#third{
+    background-color: #e5e5e5;
+}
+#third h2{
+    width: 408px;
+height: 56px;
+font-size: 32px;
+line-height: 24px;
+color: #57614e;
+font-family: "Times New Roman";
+margin-top: 20px;
+}
+#third p{
+    width: 620px;
+height: 154px;
+font-size: 18px;
+line-height: 24px;
+color: #57614e;
+font-family: "Times New Roman";
+}
+.about h3{
+    width: 224px;
+height: 40px;
+font-size: 16px;
+line-height: 24px;
+color: #626262;
+font-weight: bold;
+font-family: "Arial";
+}
+.about p{
+    width: 300px !important;
+height: 91px;
+font-size: 14px;
+line-height: 24px;
+color: #626262;
+font-weight: 400;
+font-family: "Arial";
+}
+.img-thumbnail{
+    height: 154px;
+    width: 225px;
+}
+#fourth .btn-secondary{
+    width: 122px;
+}
+
+#fourth{
+    background-color: #d9d9d9;
+}
+#fourth h2{
+    width: 240px;
+height: 56px;
+font-size: 32px;
+line-height: 24px;
+color: #57614e;
+font-family: "Times New Roman";
+margin-top: 20px;}
+
+#fourth p{
+    width: 261px !important;
+height: 120px;
+font-size: 18px;
+line-height: 24px;
+color: #57614e;
+font-family: "Times New Roman";
+}
+button{
+    text-transform: uppercase;
+}
+
+/*fifth css*/
+
+#fifth{
+    background-color: #d9d9d9;
+}
+#fifth h3{width: 410px;
+    height: 30px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #626262;
+    font-weight: bold;
+    font-family: "Arial";}
+
+#fifth p{
+    width: 283px;
+font-size: 13px;
+line-height: 24px;
+color: #626262;
+font-weight: 400;
+font-family: "Arial";
+}    
+#fifth .btn-secondary{
+    width: 244px;
+}
+
+footer{
+    background-color: #4d5943;
+}
+footer a i{
+    color: #fff;
+}
+footer p{font-size: 11px;
+    letter-spacing: 0px;
+    line-height: 30px;
+    color: #d8d9d8 !important;
+    font-family: "Arial";
+    text-align: right;}
